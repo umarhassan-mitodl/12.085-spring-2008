@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on soil carbon sequestration 
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/2439fa5aaa1e9ab71bd7a946ab6ae53a_stanley_w5.pdf
 file_size: 75822
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

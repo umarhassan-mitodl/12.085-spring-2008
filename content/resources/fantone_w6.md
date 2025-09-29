@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on law, policy, and logistics
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/72402f1981213456c40e7d10d0b907bd_fantone_w6.pdf
 file_size: 33121
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

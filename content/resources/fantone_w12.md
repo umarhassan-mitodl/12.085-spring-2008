@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on international environmenta
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/9b76004db16ac5542896480d4b4c629b_fantone_w12.pdf
 file_size: 31272
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

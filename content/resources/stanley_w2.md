@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on geoengineering the climate
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/da28f7bba35c097f1f68a60d3c917cc7_stanley_w2.pdf
 file_size: 73305
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

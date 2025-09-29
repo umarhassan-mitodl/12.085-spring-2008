@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on geoengineering, written by
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/81892335d8048b0062a13c6f30e8c55f_song_w5.pdf
 file_size: 120971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

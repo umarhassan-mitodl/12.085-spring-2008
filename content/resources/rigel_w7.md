@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on wind power costs and insta
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/5b8da7e6e0c8db6ca308bcc1f25feb88_rigel_w7.pdf
 file_size: 82437
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Example of a student's weekly summary on solar scattering, written 
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/e7d0f0ae13d49b0cb167d1b5d8147357_fantone_w3.pdf
 file_size: 32324
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

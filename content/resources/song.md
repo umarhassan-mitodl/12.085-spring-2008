@@ -5,6 +5,8 @@ description: Example of a student's final paper on sequestering carbon dioxide i
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/85f9158965a4a2b59d1adf51d01c7469_song.pdf
 file_size: 251359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

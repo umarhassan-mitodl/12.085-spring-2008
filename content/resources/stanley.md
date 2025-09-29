@@ -5,6 +5,8 @@ description: Example of a student's final paper on terrestrial carbon sequestrat
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/19dee7b19e6c6e57a7a276c6e91a6964_stanley.pdf
 file_size: 1360242
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
