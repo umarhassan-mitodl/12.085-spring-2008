@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the final assignment of the course
   along with example papers written by students.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Final Papers

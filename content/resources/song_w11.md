@@ -5,8 +5,6 @@ description: Example of a student's weekly summary on synthesizing carbonates, w
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/5371cab89679062b64a74e920c0fe19e_song_w11.pdf
 file_size: 100080
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

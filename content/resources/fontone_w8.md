@@ -5,8 +5,6 @@ description: Example of a student's weekly summary on solar radiation reduction 
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/46dc0290bb2b942fcc97b629518335c5_fontone_w8.pdf
 file_size: 32088
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

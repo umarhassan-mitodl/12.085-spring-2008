@@ -5,8 +5,6 @@ description: Example of a student's weekly summary on calculating the carbon emi
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/e859e08bb223b4c3fdc24fab6d00c98e_stanley_w11.pdf
 file_size: 138160
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

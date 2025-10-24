@@ -5,8 +5,6 @@ description: Example of a student's weekly summary on how serpentine could be us
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/6c69f2a0a8644e8b35e84885f86e496f_song_w7.pdf
 file_size: 105132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

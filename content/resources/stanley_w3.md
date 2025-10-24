@@ -5,8 +5,6 @@ description: Example of a student's weekly summary on global warming and ice age
 file: /courses/12-085-seminar-in-environmental-science-spring-2008/d42878a48b079d3f7b26c6beb05fc6ca_stanley_w3.pdf
 file_size: 76219
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
